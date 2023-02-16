@@ -10,8 +10,8 @@ if (num>1){
     }
 }
 if (p==1){
-    console.log("No");
+    console.log("NO");
 }
 else{
-    console.log("Yes");
+    console.log("YES");
 }
