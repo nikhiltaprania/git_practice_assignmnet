@@ -1,9 +1,10 @@
-let num = 97;
+let a= 97;
 let p = 0;
 
-if (num>1){
-    for (let i = 2; i<num ; i++){
-        if (num%i===0){
+if (a>1){
+    
+    for (let i = 2; i<a ; i++){
+        if (a%i===0){
             p = 1;
             break;
         }
